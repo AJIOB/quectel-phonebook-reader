@@ -1,0 +1,3 @@
+[submodule "serial_tool"]
+	path = serial_tool
+	url = https://github.com/AJIOB/serial_tool.git
